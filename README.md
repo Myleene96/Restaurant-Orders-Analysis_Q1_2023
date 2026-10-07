@@ -27,4 +27,7 @@ Source: [Maven](https://mavenanalytics.io/data-playground/restaurant-orders)
 JOINs, GROUP BY, aggregate functions, CTEs, subqueries, window functions
 
 ## Dashboard
-![SALES_dashboard.png](SALES_Dashboard.png)
+![SALES_dashboard.png](SALES_Dashboard.png) 
+link: https://public.tableau.com/views/CafeSalesDashboard_17904407115150/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link 
+
+
